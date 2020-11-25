@@ -1,4 +1,3 @@
 # py_internship-bootcamp
-task_day1
 
-sorry cause I didn't do exercise 1 cause IDE is not lightweight for my PC 
+this repository contains all daily task during bootcamp/internship program held by BestEnlist for 30 days
